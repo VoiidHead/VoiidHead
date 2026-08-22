@@ -2,8 +2,8 @@
 ## :rocket: About Me
 I'm a young student passionate about technology, always eager to learn more and hoping to pursue a career in game development.
 ## :brain: Currently Taking
-- Technical Course in Web Design and Development at the Federal Institute of Education, Science, and Technology of Rio Grande do Norte
-- Technical Course in Game Design and Development at the Federal University of Rio Grande do Norte
+- Technical Course in Internet Computing at the Federal Institute of Education, Science, and Technology of Rio Grande do Norte
+- Technical Course in Digital Games at the Federal University of Rio Grande do Norte
 
 ##
 
