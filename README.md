@@ -1,12 +1,15 @@
-# ![Cat Waving](wavingCat.gif) Hello, I'm Vitor Emidio!
-## :rocket: About Me
-I'm a young student passionate about technology, always eager to learn more and hoping to pursue a career in game development.
-## :brain: Currently Taking
-- Technical Course in Internet Computing at the Federal Institute of Education, Science, and Technology of Rio Grande do Norte
-- Technical Course in Digital Games at the Federal University of Rio Grande do Norte
+# ![Gato Acenando](wavingCat.gif) Olá, eu sou Vitor Emidio!
 
-##
+## :rocket: Sobre Mim
 
+Sou um jovem estudante apaixonado por tecnologia, que sempre busca aprender mais e planeja seguir uma carreira no desenvolvimento de jogos.
+
+## :brain: Atualmente Cursando
+
+* Curso Técnico em Informática para Internet no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
+* Curso Técnico em Jogos Digitais na Universidade Federal do Rio Grande do Norte
+
+## :books: Estudando Atualmente
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Lua" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
