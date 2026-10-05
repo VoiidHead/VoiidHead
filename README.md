@@ -6,8 +6,8 @@ Sou um jovem estudante apaixonado por tecnologia, que sempre busca aprender mais
 
 ## :brain: Atualmente Cursando
 
-* Curso Técnico em Informática para Internet no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
-* Curso Técnico em Jogos Digitais na Universidade Federal do Rio Grande do Norte
+* Curso Técnico em Informática para Internet no IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte)
+* Curso Técnico em Jogos Digitais do IMD/UFRN (Instituto Metrópole Digital/Universidade Federal do Rio Grande do Norte)
 
 ## :books: Estudando Atualmente
 <div style="display: inline_block"><br>
