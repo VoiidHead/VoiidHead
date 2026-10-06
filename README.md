@@ -6,7 +6,7 @@ Sou um jovem estudante apaixonado por tecnologia, que sempre busca aprender mais
 
 ## :brain: Atualmente Cursando
 
-* Curso Técnico Integrado de Informática para Internet no IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte)
+* Curso Técnico Integrado em Informática para Internet no IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte)
 * Curso Técnico em Jogos Digitais do IMD/UFRN (Instituto Metrópole Digital/Universidade Federal do Rio Grande do Norte)
 
 ## :books: Estudando Atualmente
