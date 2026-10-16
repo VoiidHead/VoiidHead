@@ -11,9 +11,15 @@ Sou um jovem estudante apaixonado por tecnologia, que sempre busca aprender mais
 
 ## :books: Estudando Atualmente
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Lua" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
-  <img align="center" alt="JS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="60" width="60" src="icons/lang/Python.svg">
+  <img align="center" alt="Lua" height="60" width="60" src="icons/lang/Lua.svg">
+  <img align="center" alt="C" height="60" width="60" src="icons/lang/C.svg">
+  <img align="center" alt="JS" height="60" width="60" src="icons/lang/JS.svg">
+  <img align="center" alt="JS" height="60" width="60" src="icons/lang/TS.svg">
+  <img align="center" alt="HTML" height="60" width="60" src="icons/lang/HTML.svg">
+  <img align="center" alt="CSS" height="60" width="60" src="icons/lang/CSS.svg">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Unity" height="60" width="60" src="icons/tool/Unity.svg">
+  <img align="center" alt="Pygame" height="60" width="60" src="icons/tool/Pygame.svg">
 </div>
