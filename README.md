@@ -14,6 +14,7 @@ Sou um jovem estudante apaixonado por tecnologia, que sempre busca aprender mais
   <img align="center" alt="Python" height="60" width="60" src="icons/lang/Python.svg">
   <img align="center" alt="Lua" height="60" width="60" src="icons/lang/Lua.svg">
   <img align="center" alt="C" height="60" width="60" src="icons/lang/C.svg">
+  <img align="center" alt="C#" height="60" width="60" src="icons/lang/CSharp.svg">
   <img align="center" alt="JS" height="60" width="60" src="icons/lang/JS.svg">
   <img align="center" alt="JS" height="60" width="60" src="icons/lang/TS.svg">
   <img align="center" alt="HTML" height="60" width="60" src="icons/lang/HTML.svg">
