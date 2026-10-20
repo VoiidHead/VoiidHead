@@ -1,15 +1,13 @@
-# ![Gato Acenando](wavingCat.gif) Olá, eu sou Vitor Emidio!
+# ![Cat Waving](wavingCat.gif) Hello, I'm Vitor Emidio!
+## :rocket: About Me
+I'm a young student passionate about technology, always eager to learn more and hoping to pursue a career in game development.
+## :brain: Currently Taking
+- Technical Course in Internet Computing at the Federal Institute of Education, Science, and Technology of Rio Grande do Norte (IFRN)
+- Technical Course in Digital Games at the Federal University of Rio Grande do Norte (UFRN)
 
-## :rocket: Sobre Mim
+---
 
-Sou um jovem estudante apaixonado por tecnologia, que sempre busca aprender mais e planeja seguir uma carreira no desenvolvimento de jogos.
-
-## :brain: Atualmente Cursando
-
-* Curso Técnico Integrado em Informática para Internet no IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte)
-* Curso Técnico em Jogos Digitais do IMD/UFRN (Instituto Metrópole Digital/Universidade Federal do Rio Grande do Norte)
-
-## :books: Estudando Atualmente
+#### Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="60" src="icons/lang/Python.svg">
   <img align="center" alt="Lua" height="60" width="60" src="icons/lang/Lua.svg">
@@ -20,6 +18,8 @@ Sou um jovem estudante apaixonado por tecnologia, que sempre busca aprender mais
   <img align="center" alt="HTML" height="60" width="60" src="icons/lang/HTML.svg">
   <img align="center" alt="CSS" height="60" width="60" src="icons/lang/CSS.svg">
 </div>
+
+#### Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Unity" height="60" width="60" src="icons/tool/Unity.svg">
   <img align="center" alt="Pygame" height="60" width="60" src="icons/tool/Pygame.svg">
