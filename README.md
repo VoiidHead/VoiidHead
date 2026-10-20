@@ -17,8 +17,8 @@ I'm a young student passionate about technology, always eager to learn more and 
   <img align="center" alt="TypeScript" height="60" width="60" src="icons/lang/TS.svg">
   <img align="center" alt="HTML" height="60" width="60" src="icons/lang/HTML.svg">
   <img align="center" alt="CSS" height="60" width="60" src="icons/lang/CSS.svg">
-  <!-- <img align="center" alt="Markdown" height="60" width="60" src="icons/lang/MD.svg">
-</div> -->
+  <img align="center" alt="Markdown" height="60" width="60" src="icons/lang/MD.svg">
+</div>
 
 #### Tools
 <div style="display: inline_block"><br>
