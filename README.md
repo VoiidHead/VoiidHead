@@ -8,7 +8,7 @@ I'm a young student passionate about technology, always eager to learn more and 
 ---
 
 ### Languages
-###### Programming Languages
+#### Programming Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="60" src="icons/lang/Python.svg">
   <img align="center" alt="Lua" height="60" width="60" src="icons/lang/Lua.svg">
