@@ -5,11 +5,11 @@ I'm a young student passionate about technology, always eager to learn more and 
 - Technical Course in Web Development at the Federal Institute of Education, Science, and Technology of Rio Grande do Norte (IFRN)
 - Technical Course in Digital Games at the Federal University of Rio Grande do Norte (UFRN)
 ## :globe_with_meridians: I Speak
-- <img src="icons/flag/br.svg" height="15"> Portuguese (Native)
-- <img src="icons/flag/us.svg" height="15"> English (B1)
-- <img src="icons/flag/eo.svg" height="15"> Esperanto (B1)
-- <img src="icons/flag/es.svg" height="15"> Spanish (A2)
-- <img src="icons/flag/de.svg" height="15"> German (A1)
+- <img src="icons/flag/br.svg" alt="Brazil flag" height="15"> Portuguese (Native)
+- <img src="icons/flag/us.svg" alt="USA flag" height="15"> English (B1)
+- <img src="icons/flag/eo.svg" alt="Esperanto flag" height="15"> Esperanto (B1)
+- <img src="icons/flag/es.svg" alt="Spain flag" height="15"> Spanish (A2)
+- <img src="icons/flag/de.svg" alt="Germany flag" height="15"> German (A1)
 
 ---
 
