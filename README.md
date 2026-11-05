@@ -11,9 +11,7 @@ I'm a young student passionate about technology, always eager to learn more and 
 - Technical Course in Web Development at the Federal Institute of Education, Science, and Technology of Rio Grande do Norte (IFRN)
 - Technical Course in Digital Games at the Federal University of Rio Grande do Norte (UFRN)
 
----
-
-### Languages
+## :computer: Languages
 #### Programming Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="60" src="icons/lang/Python.svg">
@@ -31,7 +29,7 @@ I'm a young student passionate about technology, always eager to learn more and 
   <img align="center" alt="Markdown" height="60" width="60" src="icons/lang/MD.svg">
 </div>
 
-### Tools
+## 🧰 Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Visual Studio Code" height="60" width="60" src="icons/tool/VSCode.svg">
   <img align="center" alt="Unity" height="60" width="60" src="icons/tool/Unity.svg">
@@ -40,6 +38,6 @@ I'm a young student passionate about technology, always eager to learn more and 
 
 ---
 
-## Working on
+## :gear: Working on
 - Simple Games with Pygame and Unity
 - Simple Websites
