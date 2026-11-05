@@ -37,3 +37,9 @@ I'm a young student passionate about technology, always eager to learn more and 
   <img align="center" alt="Unity" height="60" width="60" src="icons/tool/Unity.svg">
   <!-- <img align="center" alt="Pygame" height="60" width="60" src="icons/tool/Pygame.svg"> -->
 </div>
+
+---
+
+## Working on
+- Simple Games with Pygame and Unity
+- Simple Websites
