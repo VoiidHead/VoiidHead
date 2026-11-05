@@ -8,7 +8,7 @@ I'm a young student passionate about technology, always eager to learn more and 
 - <img src="icons/flag/br.svg" alt="Brazil flag" height="15"> Portuguese (Native)
 - <img src="icons/flag/us.svg" alt="USA flag" height="15"> English (B1)
 - <img src="icons/flag/eo.svg" alt="Esperanto flag" height="15"> Esperanto (A2)
-- <img src="icons/flag/es.svg" alt="Spain flag" height="15"> Spanish (A2)
+- <img src="icons/flag/es.svg" alt="Spain flag" height="15"> Spanish (A1)
 - <img src="icons/flag/de.svg" alt="Germany flag" height="15"> German (A1)
 
 ---
