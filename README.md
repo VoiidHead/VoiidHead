@@ -36,6 +36,8 @@ I'm a young student passionate about technology, always eager to learn more and 
 ## 🧰 Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Visual Studio Code" height="60" width="60" src="icons/tool/VSCode.svg">
+  <img align="center" alt="Git" height="60" width="60" src="icons/tool/Git.svg">
+  <img align="center" alt="GitHub" height="60" width="60" src="icons/tool/GitHub.svg">
   <img align="center" alt="Unity" height="60" width="60" src="icons/tool/Unity.svg">
   <!-- <img align="center" alt="Pygame" height="60" width="60" src="icons/tool/Pygame.svg"> -->
 </div>
